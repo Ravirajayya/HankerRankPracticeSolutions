@@ -7,7 +7,8 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.lang.String;
 
-public class Solution {
+/* Given a time in 12-hour AM/PM format, convert it to military (24-hour) time. */
+public class TimeConversion {
 
     /*
      * Complete the timeConversion function below.
