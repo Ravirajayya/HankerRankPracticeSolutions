@@ -18,9 +18,7 @@ public class PlusMinus
 		
 		System.out.println("Enter data on array");
 		for(int i = 0; i < tmpNum; i++)
-		{
 			arr[i] = scan.nextInt();
-		}
 		
 		plusMinus(arr);
 	}
